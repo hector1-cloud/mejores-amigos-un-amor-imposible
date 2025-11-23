@@ -1,0 +1,11 @@
+landing-site/
+├─ index.html
+├─ metadata.json
+├─ css/
+│  └─ style.css
+├─ js/
+│  └─ verify.js
+├─ releases/
+│  └─ mejores-amigos_v1.1.0.zip
+└─ checksums/
+   └─ v1.1.0_sha256sum.txt
